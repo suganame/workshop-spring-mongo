@@ -3,8 +3,6 @@ package com.suganame.workshopmongo.dto;
 import java.io.Serializable;
 import java.util.Date;
 
-import com.suganame.workshopmongo.domain.User;
-
 public class CommentDTO implements Serializable {
 
     private String text;
